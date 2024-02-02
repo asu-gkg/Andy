@@ -3,7 +3,7 @@
 [About me](/about-me)
 
 ## Networked Systems
-[A road map](/networked-system-road-map)
+[A Road Map](/networked-system-road-map)
 
 [Collective Communication, Networked Systems, Distributed Systems](/networked-system-Collective-Communication,Networked-Systems,-Distributed-Systems)
 
@@ -11,7 +11,7 @@
 
 [P4 Basics](/networked-system-p4-basics)
 
-[A survey of in-network computation support for Distributed Deep Learning](/)
+[A Survey of In-Network Computation Support for Distributed Deep Learning](/)
 
 [SDN vs Routing Software](/networked-system-routing-software)
 
