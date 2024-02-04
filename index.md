@@ -7,7 +7,7 @@
 
 [Collective Communication, Networked Systems, Distributed Systems](/networked-system-Collective-Communication,Networked-Systems,-Distributed-Systems)
 
-[Collective Communication Accelerate Distributed Deep Learning](/networked-system-cc-help-ddl)
+[Efficient Sparse Collective Communication and its application to Accelerate Distributed Deep Learning](/networked-system-cc-help-ddl)
 
 [P4 Basics](/networked-system-p4-basics)
 
